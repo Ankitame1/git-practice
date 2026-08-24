@@ -1,1 +1,1 @@
-print("Hello Git and Cyber Security")
+print("Hello Git")
